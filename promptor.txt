@@ -1,0 +1,88 @@
+**Objetivo del Prompt**:  
+Generar una agenda de actividades outdoor en Regensburg y alrededores para el grupo hispanohablante Outdoor Regensburg, alineada con las actividades del DAV International Group. El texto final debe estar en español argentino, con información histórica breve de los lugares, enlaces oficiales, y detalles logísticos actualizados (2025).
+
+## ENFOQUE DE ACTIVIDADES UNIFICADAS
+Este prompt genera contenido para las actividades conjuntas compartidas entre el Grupo Internacional DAV Regensburg y el Grupo Outdoor Regensburg. Todo el contenido generado con este prompt debe estar en ESPAÑOL ARGENTINO, siguiendo el estilo y tono informales propios del grupo.
+
+---
+
+### **Parámetros clave**:  
+1. **Grupo**:  
+   - Guía en español (no se necesitan servicios externos en el idioma).  
+   - Equipo: Bicis de carretera/gravel propias (Specialized Sirrus X 4.0). Para escalada, algunos traen equipo; otros alquilan en DAV (cuerdas €8/día, mosquetones €3/unidad).  
+
+2. **Logística**:  
+   - **Presupuesto**: Costos según estándares DAV (noche en refugio €25-35, descuento 20% para socios).
+   - **Transporte**: Combinación de bicicleta, transporte público (tren/bus) y coches compartidos para destinos remotos.  
+   - **Tiempo**: Salida a las 9 AM los sábados. Actividades de día completo (4h de movimiento + descansos/almuerzo).  
+   - **Permisos**: Áreas protegidas (#BN-2025-089), senderos MTB (solo rutas oficiales marcadas con ⚡️).
+
+3. **Validación**:  
+   - Verificar horarios de transporte en tiempo real (usar DB Navigator o MVV).  
+   - Confirmar si se requiere reserva previa (ej: parapente, Hütte).  
+
+---
+
+### **Estructura de actividades**  
+**Para cada actividad**, incluir:  
+
+#### **Senderismo**  
+- **Ubicación**: Nombre + distancia desde Regensburg (ej: en bici/tren).  
+- **Dificultad**: Principiante/Intermedio/Avanzado.  
+- **Historia**: 2-3 líneas (ej: castillos medievales, bosques históricos).  
+- **Almuerzo**: Opciones de picnic o restaurantes cercanos (precio medio €10-15).  
+- **Enlace oficial**: URL del parque o sitio turístico.  
+- **Puntos para fotos**: 1-2 coordenadas con breve descripción.
+
+#### **Mountain Biking**  
+- **Ruta**: Nombre + puntos destacados (ej: miradores, lagos).  
+- **Duración**: 4h total (incluye paradas).  
+- **Tipo**: Ruta panorámica o técnica.  
+- **Peligros**: Zonas con tráfico o senderos estrechos.  
+- **Dificultad**: Nivel técnico y física requerida.
+
+#### **Escalada** 
+- **Ubicación**: Nombre + distancia.  
+- **Tipo**: Roca natural/Artificial + nivel (ej: V3-V5).  
+- **Equipo**: Precio de alquiler en DAV (arnés, cuerda, etc.).  
+- **Seguridad**: Zonas con redes o necesidad de guía certificado.  
+- **Dificultad**: Según escala UIAA (≥ IV para este grupo).
+
+#### **Paragliding/Paracaidismo**  
+- **Proveedor**: Empresa + enlace web.  
+- **Precio**: Costo aproximado (ej: €200-300 por persona).  
+- **Requisitos**: Peso máximo, edad mínima, reserva previa (Sí/No).  
+
+#### **Multi-day (Hütte)**  
+- **Alojamiento**: Nombre del Hütte + acceso en transporte público.  
+- **Actividades desde el Hütte**: Senderismo nocturno, escalada en roca.  
+- **Costo pernocte**: €25-35/noche (20% descuento para socios DAV).  
+
+---
+
+### **Eventos Específicos 2025**
+Incluir estos eventos en la agenda:
+- 30 de marzo: Paseo de Bienvenida a la Primavera - Ciclismo desde Regensburg Hauptbahnhof (9:00) hasta Koreawirt (25 km ida y vuelta, Dificultad: Fácil/Moderada), seguido de caminata de 2 horas en Otterbachtal (Dificultad: Fácil, 150m desnivel).
+- 29 de abril: Reunión de Miembros DAV (Mitgliederversammlung) a las 18:00, Spitalgarten.
+
+### **Nota sobre Calendario Unificado**
+Importante: Estas actividades son compartidas con el grupo DAV Regensburg International, que publicará el mismo calendario en inglés. Ambos grupos participarán juntos, pero mantendrán comunicaciones separadas en sus respectivos idiomas.
+
+### **Sistema de Participación**
+- 1 actividad = 5 puntos → 20 puntos = Curso gratuito de meteorología alpina.
+- Desafío fotográfico: #OutdoorRegensburg2025 (Destacado mensual en Instagram).
+
+### **Protocolo de Emergencia**
+"Contacto de emergencia: 112 → Solicitar intérprete de español → ID de Grupo: GRP-INT-2025"
+
+---
+
+### **Instrucciones para generar contenido**:  
+1. Priorizar sitios con acceso en bici/tren desde Regensburg.  
+2. Incluir 3 opciones en cada categoría:
+   - Actividades Híbridas Cultural-Técnicas (ej., sitio histórico con escalada)
+   - Actividades Puramente Deportivas (enfoque técnico)
+   - Aventuras de Varios Días (refugios accesibles en tren)
+3. **Formato**: Lista en markdown, con emojis para cada sección (ej: ⛰️**Senderismo**).  
+4. Añadir nota de seguridad: "Verificar pronóstico del tiempo y llevar equipo básico (botiquín, agua)".
+5. Finalizar con: "Verificar regulaciones actuales en bayerischer-wald.de/2025-rules. Grupo oficial Outdoor Regensburg (ID 2025-INT-ES)."

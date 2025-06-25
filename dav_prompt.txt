@@ -1,0 +1,154 @@
+# DAV Regensburg International Group - 2025 Activity Agenda Generator
+
+## UNIFIED ACTIVITIES APPROACH
+This prompt generates content for the joint activities shared between DAV Regensburg International Group and Outdoor Regensburg Group. All content generated with this prompt should be in ENGLISH, following DAV standards and conventions.
+
+## REQUIREMENTS
+Generate a 2025 activity agenda for the English-speaking International Group of DAV Regensburg with:
+- 60% technical outdoor activities (climbing, hiking, MTB)
+- 40% cultural-historical integration
+- All activities accessible by public transport or bike
+
+## GROUP PROFILE
+- Experienced climbers (UIAA IV+) and MTB riders
+- Equipment: Gravel-capable bikes (Specialized Sirrus X 4.0)
+- DAV equipment rentals available: Ropes (€8/day), Carabiners (€3/unit)
+
+## LOGISTICS PARAMETERS
+- Include actual 2025 transport schedules
+- Costs: Hut overnight (€25-35, DAV 20% discount), E-bike rental (€30/day at Hauptbahnhof)
+- Required permits: Protected areas (#BN-2025-089), MTB trails (official ⚡️-marked routes only)
+
+## CONTENT REQUIREMENTS
+Generate 3 options in each category:
+1. Cultural-Tech Hybrid activities (e.g., historical site with climbing)
+2. Pure Sports activities (technical focus)
+3. Multi-Day Adventures (train-accessible huts)
+
+## FORMAT FOR EACH ACTIVITY
+⛰️ **[ACTIVITY NAME]**
+- 📍 Distance: [X] km (🚲 and/or 🚆 [TRANSPORT DETAILS])
+- ⚙️ Difficulty: [LEVEL] ([DETAILS])
+- 🏛️ Historical connection: [BRIEF VALIDATED HISTORICAL CONNECTION]
+- 🧭 GPX: [LINK PLACEHOLDER]
+- 📍 Photo spots: [1-2 COORDINATES WITH BRIEF DESCRIPTION]
+- Additional info: [PERMITS/COSTS/SPECIAL REQUIREMENTS]
+
+## OUR CABINS AND CONTRACT HOUSES
+The DAV Regensburg Section owns five cabins - two public and three section-owned. Hanslberghütte and Steinwaldhütte are located in the immediate and nearby vicinity. Members can also stay at two comfortable valley lodges in Zwieselstein and Brixen im Thale, Tyrol. Two contract partners in Salzburger Land and Upper Austria complete the offerings.
+
+### Mountain Cabins
+
+**Neue Regensburger Hütte**
+- High-mountain cabin in the Stubai Valley
+- Located on the Stubai High Trail
+- Renovated in 2018-2019 and continuously updated
+- 101 sleeping places
+- Perfect for multi-day Alpine tours
+
+**Talherberge Zwieselstein**
+- Valley cabin between Sölden and Gurgl
+- Ideal location for skiers
+- Built in 1925 by the Hamburg Section
+- Summer station on the original route of the legendary E5 long-distance hiking trail
+
+**Berg- und Skiheim in Brixen im Thale**
+- Valley cabin in Brixental
+- Perfect for mountain enthusiasts in winter and summer
+- Especially suitable for families
+- Optional private apartment available with 10 sleeping places in 3 rooms (completed June 2022)
+
+**Hanslberghütte**
+- Located in the Oberndorf slopes above the Danube
+- Our oldest cabin with space for 24 people in the common room and 10 in the dormitory
+- Ideal for family or other celebrations
+- Accessible from Regensburg via the Danube Cycle Path
+- Short ascent from the sports field in Oberndorf
+
+**Steinwaldhütte**
+- Mid-mountain cabin near Pfaben/Erbendorf
+- Owned by the Regensburg Section since 2022 (built in 1968 by Weiden Section)
+- Located in the beautiful Steinwald in Upper Palatinate
+- Only 120 km (1.5 hours) from Regensburg and 80 km (1 hour) from Schwandorf
+
+### Contract Houses
+
+**Vorderschappachhof in Hüttschlag**
+- Organic farm in the ÖAV mountaineering village of Hüttschlag in Großarltal
+- Ideal "base camp" for mountaineers and nature lovers year-round
+- Particularly suitable for families with children
+- Address: Hüttschlag 9A, A-5612 Hüttschlag
+
+**Maurerwirt in Rosenau**
+- Guesthouse in the Phyrn-Priel area near the Kalkalpen
+- Located at Hengstpass in southern Upper Austria, near Kalkalpen National Park and Gesäuse
+- Simple rooms and vacation apartments for mountaineers in summer and winter
+- Address: Hauptstraße 12, A-4581 Rosenau am Hengstpaß
+
+**Berggasthof Steckholzer**
+- Mountain inn in the mountaineering village of Vals/St. Jodok
+- Family-run mountain inn at over 1,600m above sea level
+- Restaurant serving products from their own farm
+- Regensburg Section members receive 20% discount on overnight stays with breakfast
+- Quiet location with excellent hiking opportunities
+
+### SOCIAL MEDIA CONTENT GUIDELINES
+When posting about our cabins on social media:
+- Tag posts with #DAVRegensburg #MountainCabins #AlpineAdventures
+- Highlight sustainable practices and facilities at our huts
+- Share authentic experiences and seasonal activities at each location
+- For stories, use location tags and cabin-specific information
+- Include booking information and member discounts where applicable
+
+## SPECIAL FEATURES
+- Include the following specific events in the agenda:
+  - March 30: Spring Welcome Ride - Cycling from Regensburg Hauptbahnhof (9:00 AM) to Koreawirt 
+    (25 km round trip, Difficulty: Easy/Moderate), followed by 2-hour hike in Otterbachtal 
+    (Difficulty: Easy, 150m elevation). Bus option: Line 5 to "Kneiting" + Line 25 to "Koreawirt". 
+    Equipment: water bottle, hiking shoes, layers for weather (5-18°C). Lunch at 
+    Koreawirt. Return: Flexible/individual.
+  - April 29: DAV Member Meeting (Mitgliederversammlung) at 18:00, Spitalgarten
+- Participation system: 5 points per activity, 20 points = free alpine course
+- Emergency protocol: "112 → DAV Group ID: DAV-INT-2025-EN"
+
+## UNIFIED ACTIVITY SCHEDULE NOTE
+Important: These activities are shared with the Outdoor Regensburg group, which will publish the same schedule in Spanish Argentinian. Both groups will participate together, but maintain separate communications in their respective languages.
+
+## COMMUNICATION GUIDELINES
+- All DAV communications in English
+- Keep language accessible to international participants
+- Include relevant DAV terminology and standards
+- Always include DAV branding: "DAV Sektion Regensburg - International Group"
+- Use proper hiking/climbing terminology according to DAV guidelines
+
+## SAMPLE OUTPUT STRUCTURE
+```markdown  
+# [MONTH] 2025 Activity Agenda  
+
+## 🌟 Featured Events  
+**[DATE]**: [EVENT NAME]  
+- [BRIEF DESCRIPTION]  
+
+⛰️ **Cultural-Tech Hike Options**  
+1. **[HIKE NAME]**  
+   📍 Route: [DETAILS]  
+   🚆 Transport: [DETAILS]  
+   🧭 GPX: [LINK]  
+   ... 
+
+🚵 **MTB Challenges**  
+1. **[CHALLENGE NAME]**  
+   🔋 Difficulty: [DETAILS]  
+   ⚠️ Permit: [REQUIREMENTS]  
+   ...  
+
+🏔️ **Multi-Day Hut Adventures**  
+1. **[ADVENTURE NAME]**  
+   🛏️ Capacity: [DETAILS]  
+   🌌 Activities: [DETAILS]  
+   ...  
+
+📜 **Legal & Safety**  
+- Emergency protocols: [DETAILS]  
+- Required documentation: [DETAILS]
+

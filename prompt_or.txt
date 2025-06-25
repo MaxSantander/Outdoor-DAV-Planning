@@ -1,0 +1,105 @@
+# Outdoor Regensburg - Grupo Internacional 2025 - Generador de Agenda de Actividades
+
+## ENFOQUE DE ACTIVIDADES UNIFICADAS
+Este prompt genera contenido para las actividades conjuntas compartidas entre el Grupo Internacional DAV Regensburg y el Grupo Outdoor Regensburg. Todo el contenido generado con este prompt debe estar en ESPAÑOL ARGENTINO, siguiendo el estilo y tono informales propios del grupo.
+
+## REQUISITOS
+Generar una agenda de actividades 2025 para el Grupo Outdoor Regensburg hispanohablante, equilibrando:
+- 60% desafíos técnicos outdoor (escalada, senderismo, MTB)
+- 40% integración cultural-histórica
+- Todas las actividades accesibles en transporte público o bicicleta
+
+## PERFIL DEL GRUPO
+- Escaladores experimentados (≥ UIAA IV) y ciclistas de MTB
+- Equipamiento:
+  - Bicis: Specialized Sirrus X 4.0 (aptas para grava)
+  - Alquiler DAV: Cuerdas €8/día - Mosquetones €3/unidad
+
+## PARÁMETROS LOGÍSTICOS
+- Incluir horarios reales de transporte 2025
+- Costos: Noche en refugio (€25-35, socios DAV 20% descuento), Alquiler de e-bike (€30/día en Hauptbahnhof)
+- Permisos requeridos: Áreas protegidas (#BN-2025-089), Senderos MTB (solo rutas oficiales marcadas con ⚡️)
+
+## CONTEXTO HISTÓRICO
+Incluir solo paralelos culturales académicamente validados:
+*Ejemplo: "Ruta comercial romana (siglo II d.C.) vs. sistema vial inca Qhapaq Ñan"*
+
+## CONTENIDO REQUERIDO
+Generar 3 opciones en cada categoría:
+1. Actividades Híbridas Cultural-Técnicas (ej., sitio histórico con escalada)
+2. Actividades Puramente Deportivas (enfoque técnico)
+3. Aventuras de Varios Días (refugios accesibles en tren)
+
+## FORMATO PARA CADA ACTIVIDAD
+⛰️ **[NOMBRE DE LA ACTIVIDAD]**
+- 📍 Distancia: [X] km (🚲 y/o 🚆 [DETALLES DE TRANSPORTE])
+- ⚙️ Dificultad: [NIVEL] ([DETALLES])
+- 🏛️ Conexión histórica: [BREVE CONEXIÓN HISTÓRICA VALIDADA]
+- 🧭 GPX: [ENLACE]
+- 📍 Puntos para fotos: [1-2 COORDENADAS CON BREVE DESCRIPCIÓN]
+- Info adicional: [PERMISOS/COSTOS/REQUISITOS ESPECIALES]
+
+## MULTIMEDIA
+Incluir por actividad:
+- 1 enlace oficial a mapa GPX
+- 2-3 puntos geoetiquetados para fotos (ej., coordenadas de puente histórico)
+
+## PROTOCOLO DE EMERGENCIA
+"Contacto de emergencia: 112 → Solicitar intérprete de español → ID de Grupo: GRP-INT-2025"
+
+## INTEGRACIÓN DE EVENTOS 2025
+- Incluir eventos específicos en la agenda:
+  - 30 de marzo: Paseo de Bienvenida a la Primavera - Ciclismo desde Regensburg Hauptbahnhof (9:00) hasta Koreawirt 
+    (25 km ida y vuelta, Dificultad: Fácil/Moderada), seguido de caminata de 2 horas en Otterbachtal 
+    (Dificultad: Fácil, 150m desnivel). Opción de bus: Línea 5 hasta "Kneiting" + Línea 25 hasta "Koreawirt". 
+    Equipamiento: botella de agua, zapatillas de trekking, capas para el clima (5-18°C). Almuerzo en 
+    Koreawirt. Regreso: Flexible/individual.
+  - 29 de abril: Reunión de Miembros DAV (Mitgliederversammlung) a las 18:00, Spitalgarten
+
+## SISTEMA DE PARTICIPACIÓN
+Recompensas de participación:
+- 1 actividad = 5 puntos → 20 puntos = Curso gratuito de meteorología alpina
+- Desafío fotográfico: #OutdoorRegensburg2025 (Destacado mensual en Instagram)
+
+## NOTA SOBRE CALENDARIO DE ACTIVIDADES UNIFICADO
+Importante: Estas actividades son compartidas con el grupo DAV Regensburg International, que publicará el mismo calendario en inglés. Ambos grupos participarán juntos, pero mantendrán comunicaciones separadas en sus respectivos idiomas.
+
+## PAUTAS DE COMUNICACIÓN
+- Todas las comunicaciones de Outdoor Regensburg en español argentino
+- Usar un tono informal pero informativo
+- Incluir terminología adecuada de montañismo/escalada
+- Siempre incluir: "Outdoor Regensburg - Grupo Internacional"
+- Adaptar términos técnicos al español utilizado en Argentina
+
+## ESTRUCTURA DE EJEMPLO
+```markdown  
+# Agenda de Actividades [MES] 2025  
+
+## 🌟 Eventos Destacados  
+**[FECHA]**: [NOMBRE DEL EVENTO]  
+- [BREVE DESCRIPCIÓN]  
+
+⛰️ **Opciones de Caminata Cultural-Técnica**  
+1. **[NOMBRE DE CAMINATA]**  
+   📍 Ruta: [DETALLES]  
+   🚆 Transporte: [DETALLES]  
+   🧭 GPX: [ENLACE]  
+   ... 
+
+🚵 **Desafíos MTB**  
+1. **[NOMBRE DEL DESAFÍO]**  
+   🔋 Dificultad: [DETALLES]  
+   ⚠️ Permiso: [REQUISITOS]  
+   ...  
+
+🏔️ **Aventuras en Refugios de Varios Días**  
+1. **[NOMBRE DE AVENTURA]**  
+   🛏️ Capacidad: [DETALLES]  
+   🌌 Actividades: [DETALLES]  
+   ...  
+
+📜 **Legal y Seguridad**  
+- Protocolos de emergencia: [DETALLES]  
+- Documentación requerida: [DETALLES]
+
+"Verificar regulaciones actuales en bayerischer-wald.de/2025-rules. Grupo oficial Outdoor Regensburg (ID 2025-INT-ES)."
